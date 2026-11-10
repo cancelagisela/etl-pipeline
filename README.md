@@ -19,7 +19,7 @@ etl-pipeline/
 ├── main.py             # Script principal que ejecuta el flujo completo
 ├── requirements.txt    # Dependencias del proyecto
 └── README.md
-
+```
 ## 📊 Dataset y Transformaciones
 
 Utiliza el dataset público del Titanic, aplicando las siguientes etapas:
@@ -36,5 +36,4 @@ Carga: Guardado del DataFrame limpio en un archivo .parquet.
 pip install -r requirements.txt
 
 -Ejecutar el pipeline:
-python main.py
-```
+python main.py```
