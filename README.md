@@ -19,7 +19,8 @@ etl-pipeline/
 ├── main.py             # Script principal que ejecuta el flujo completo
 ├── requirements.txt    # Dependencias del proyecto
 └── README.md
-📊 Dataset y Transformaciones
+
+# 📊 Dataset y Transformaciones
 Utiliza el dataset público del Titanic, aplicando las siguientes etapas:
 
 Extracción: Lectura del archivo CSV original.
