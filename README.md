@@ -33,7 +33,9 @@ Carga: Guardado del DataFrame limpio en un archivo .parquet.
 ## ⚙️ Instrucciones de Uso
 
 -Instalar las dependencias necesarias:
+```bash
 pip install -r requirements.txt
 
 -Ejecutar el pipeline:
+```bash
 python main.py
