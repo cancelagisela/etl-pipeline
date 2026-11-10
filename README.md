@@ -20,7 +20,7 @@ etl-pipeline/
 ├── requirements.txt    # Dependencias del proyecto
 └── README.md
 
-# 📊 Dataset y Transformaciones
+## 📊 Dataset y Transformaciones
 
 Utiliza el dataset público del Titanic, aplicando las siguientes etapas:
 
@@ -30,7 +30,7 @@ Transformación: Normalización de nombres de columnas, eliminación de duplicad
 
 Carga: Guardado del DataFrame limpio en un archivo .parquet.
 
-# ⚙️ Instrucciones de Uso
+## ⚙️ Instrucciones de Uso
 
 -Instalar las dependencias necesarias:
 pip install -r requirements.txt
