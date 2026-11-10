@@ -36,4 +36,4 @@ Carga: Guardado del DataFrame limpio en un archivo .parquet.
 pip install -r requirements.txt
 
 -Ejecutar el pipeline:
-python main.py```
+python main.py
