@@ -37,5 +37,3 @@ Ejecutar el pipeline:
 
 Bash
 python main.py
-
-Para actualizarlo, solo tenés que entrar a tu archivo `README.md` en GitHub, hacer clic en el **lápiz**, borrar el contenido anterior, pegar esto y guardar con **Commit changes**. ¡Te va a quedar genial y muy profesional!
