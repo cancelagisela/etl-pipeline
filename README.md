@@ -20,7 +20,8 @@ etl-pipeline/
 ├── requirements.txt    # Dependencias del proyecto
 └── README.md
 
-## 📊 Dataset y Transformaciones
+# 📊 Dataset y Transformaciones
+
 Utiliza el dataset público del Titanic, aplicando las siguientes etapas:
 
 Extracción: Lectura del archivo CSV original.
@@ -29,12 +30,10 @@ Transformación: Normalización de nombres de columnas, eliminación de duplicad
 
 Carga: Guardado del DataFrame limpio en un archivo .parquet.
 
-## ⚙️ Instrucciones de Uso
-Instalar las dependencias necesarias:
+# ⚙️ Instrucciones de Uso
 
-Bash
+-Instalar las dependencias necesarias:
 pip install -r requirements.txt
-Ejecutar el pipeline:
 
-Bash
+-Ejecutar el pipeline:
 python main.py
